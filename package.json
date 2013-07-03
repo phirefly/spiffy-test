@@ -6,11 +6,13 @@
   "dependencies": {
     "connect": "2.8.2",
     "express": "3.3.1",
-    "jade": "0.32.0"
+    "jade": "0.32.0",
+    "stylus": "0.33.x"
   },
   "engines": {
     "node": "0.10.x",
-    "npm": "1.2.x"
+    "npm": "1.2.x",
+    "nib": "*"
   },
   "main": "server.js"
 }
